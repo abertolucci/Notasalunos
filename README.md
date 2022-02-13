@@ -1,2 +1,4 @@
 # Notasalunos
-Notas de alunos
+Notas de alunos.
+Entrada das notas.
+
